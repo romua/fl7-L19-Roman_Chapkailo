@@ -1,0 +1,64 @@
+*{
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+body {
+    font-family: 'Baloo Bhaijaan', cursive;
+    background-image: url('https://umad.com/img/2016/11/mars-computer-wallpaper-15990-16500-hd-wallpapers.jpg');
+    color: white;
+}
+
+
+li {
+    list-style: none;
+}
+
+
+#data {
+    margin: 0;
+    padding: 0;
+    margin: auto;
+    color: rgba(207,83,25,1);
+    width: 100%;
+    font-size: 2.1em;
+    text-align: center;
+  //  border: 1px solid rgba(207,83,25,1);
+    border-radius: 3px;
+    margin-bottom: 30px;
+}
+
+#top {
+    width: 100%;
+//border: 1px solid red;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+
+#more_info {
+    font-size: 1em;
+}
+
+#wraper {
+    margin: auto;
+    padding: 10px 0 10px 0;
+    margin-top: 60px;
+    background: black;
+    width: 500px;
+    border-radius: 3px;
+    box-shadow: -1px 0px 12px 4px rgba(207,83,25,1);
+    text-align: center;
+}
+
+textarea {
+    display: block;
+    margin: auto;
+    margin-top: 40px;
+    width: 300px;
+    height: 200px;
+    resize: none;
+}
