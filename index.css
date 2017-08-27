@@ -8,7 +8,9 @@ a {
 }
 body {
     font-family: 'Baloo Bhaijaan', cursive;
-    background-image: url('https://umad.com/img/2016/11/mars-computer-wallpaper-15990-16500-hd-wallpapers.jpg');
+    //background-image: url('https://umad.com/img/2016/11/mars-computer-wallpaper-15990-16500-hd-wallpapers.jpg');
+    background-image: url("http://bm.img.com.ua/berlin/storage/orig/5/71/18fca90903eb55267df34084ddacf715.jpg");
+    background-repeat: no-repeat;
     color: white;
 }
 
